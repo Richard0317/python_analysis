@@ -1,6 +1,7 @@
 requests
 flask
 gunicorn
+waitress
 python-dotenv
 google-genai
 line-bot-sdk
